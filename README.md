@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mucahitvelicumart" alt="mucahitvelicumart" /></a></br> </p>
 
-- 🌱 I’m currently learning **ReactJS and MongoDB**
+- 🌱 I’m currently learning **Java Spring Boot, MongoDB, ReactJS**
 
 - 📫 How to reach me **cumartmucahitveli@gmail.com**
 
